@@ -1,0 +1,14 @@
+{
+  "name": "js-kj7bqu",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@tensorflow/tfjs": "1.2.11",
+    "@tensorflow/tfjs-core": "^1.2.11",
+    "@tensorflow/tfjs-node": "1.2.11",
+    "events": "^3.0.0",
+    "node-fetch": "2.6.0",
+    "string_decoder": "1.3.0",
+    "url": "^0.11.0"
+  }
+}
